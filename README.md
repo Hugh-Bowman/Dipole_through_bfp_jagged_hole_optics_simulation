@@ -1,4 +1,6 @@
-# Dipole Through Jagged Hole Simulation
+# Dipole through BFP jagged hole optics simulation
+
+Simulation of dipole emission from a gold nanorod imaged by a polarisation camera, including circular and real (image-derived) hole profiles.
 
 ## Run (macOS/Linux)
 
