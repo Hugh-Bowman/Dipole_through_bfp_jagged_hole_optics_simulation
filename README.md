@@ -16,6 +16,9 @@ python simulate_X_Y_rod_sim_only.py
 The program loads the hole image from:
 - `image_of_hole/cleaned_circle_with_hole.png`
 
+You can replace `cleaned_circle_with_hole.png` with your own BFP PNG image and the script should process it, but this is not guaranteed for all image qualities/formats.
+Always inspect the generated debug outputs in `image_of_hole/mask_debug` to confirm the annulus fit and hole mask are correct before trusting simulation results.
+
 If needed (permissions/cache issue on some systems), run with:
 
 ```bash
