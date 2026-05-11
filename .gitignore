@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+.mplconfig/
+image_of_hole/mask_debug/
